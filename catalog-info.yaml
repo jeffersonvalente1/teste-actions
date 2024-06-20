@@ -4,7 +4,7 @@ metadata:
   name: meu-componente
   description: Este é um componente de exemplo.
   annotations:
-    github.com/project-slug: 'gitflow/argojeff'
+    github.com/project-slug: 'jeffersonvalente1/teste-actions'
 spec:
   type: service
   owner: athena
