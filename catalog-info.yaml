@@ -5,7 +5,7 @@ metadata:
   description: Este é um componente de exemplo.
 spec:
   type: service
-  owner: team-a
+  owner: athena
   lifecycle: production
   definition:
     - .github/workflows/ci.yml
